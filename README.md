@@ -10,6 +10,7 @@ You may need to install some dependencies:
 
 ```bash
 pip install requests dnspython colorama vt-py OTXv2 iptools
+wget https://raw.githubusercontent.com/AlienVault-OTX/OTX-Python-SDK/master/examples/is_malicious/get_malicious.py # to the same directory as this script
 ```
 
 To use it, simply call the script with an IP address:
