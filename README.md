@@ -17,3 +17,8 @@ To use it, simply call the script with an IP address:
 ```bash
 python3 ipcheck.py 1.1.1.1
 ```
+Clean IP
+![Clean IP](screen1.png)
+
+Bad IP
+![Bad IP](screen2.png)
